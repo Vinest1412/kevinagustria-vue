@@ -11,7 +11,7 @@
       <img src="asd1.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="asd4.jfif" class="d-block w-100" alt="...">
+      <img src="asd2.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
       <img src="asd5.gif" class="d-block w-100" alt="...">
